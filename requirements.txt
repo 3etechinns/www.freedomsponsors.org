@@ -2,7 +2,7 @@ bitcoin-python==0.3
 coverage==3.6b1
 defusedxml==0.4.1
 dj-database-url==0.2.1
-Django==1.10.6
+Django==1.11.29
 #django-emailmgr==0.9
 git+git://github.com/freedomsponsors/django-emailmgr.git@master#egg=django-emailmgr
 #django-mailer==1.2.2

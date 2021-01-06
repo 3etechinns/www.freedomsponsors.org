@@ -18,7 +18,7 @@ misaka==1.0.2
 mock==1.0.1
 oauthlib==2.0.1
 git+git://github.com/freedomsponsors/python-paypalx.git@34d624ed8a7b6505aa6e6e12c0a5b854cacbc612#egg=paypalx
-Pillow==3.1.0
+Pillow==7.1.0
 psycopg2==2.4.5
 pycryptodomex==3.4.5
 Pygments==1.5
